@@ -110,7 +110,7 @@ This runs Dineboard in a web browser removing the need for pycharm or any IDE.
 4. Open Powershell in that folder
 5. Create and activate a virtual environment (run "python -m venv .venv" and then ".venv\Scripts\activate")
 6. install streamlit ("pip install streamlit")
-7. Launch the web app (run "streamlit run app.py") and you'll be directed to the dashboard.
+7. Launch the web app (run "streamlit run streamlit_app.py") and you'll be directed to the dashboard.
 
 
 ### Technical Highlights
@@ -136,5 +136,6 @@ Developed by: Salim Cherraj, Sergio Daniel de los Reyes, Iñigo Gonzalez, Ander 
 Course: Algorithms and Data Structures
 
 Instructor: Alejandro Martinez Mingo
+
 
 Institution: IE University
